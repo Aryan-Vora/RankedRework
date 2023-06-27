@@ -1,0 +1,8 @@
+Player1, 32
+Player2, 21
+Player3, 28
+Player4, 21
+Player5, -27
+Player6, -39
+Player7, -25
+Player8, -11
